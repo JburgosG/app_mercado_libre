@@ -13,6 +13,11 @@ En este proyecto se da solución al componente Backend del test práctico para a
 * NodeJs versión 14.17.0
 * Express 4.17.1
 
+### Nota
+
+Para el correcto funcionamiento del proyecto es necesario clonar y desplegar correctamente en nuestro equipo local la capa Frontend https://github.com/JburgosG/frontend_mercado_libre.git
+
+
 Ejecución:
 
 ```bash
